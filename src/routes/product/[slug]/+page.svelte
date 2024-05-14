@@ -67,7 +67,7 @@
 
 <div transition:fade={{ delay: 250, duration: 300 }}>
 	<div
-		class="bg-[url('/41.png')] flex flex-col items-center px-2 md:px-10 pb-20 gap-10 py-10 min-h-screen text-white"
+		class="bg-[url('/41.png')] flex flex-col items-center px-2 md:px-10 pb-20 gap-10 py-10 text-white"
 	>
 		<h1 class="font-bold text-3xl">{title[data.slug]}</h1>
 		<p class="text-justify md:w-1/2">
