@@ -47,7 +47,7 @@
 	</div>
 	<!-- second section -->
 	<div class="bg-[url('/31.png')] flex flex-col items-center px-10 pb-20">
-		<img src="/2.png" alt="" class="w-80 h-80 md:w-96 md:h-96 relative bottom-28" />
+		<img src="/2.png" alt="" class="w-64 h-64 md:w-96 md:h-96 relative bottom-28" />
 		<div class="flex flex-col md:flex-row md:w-3/4 items-center gap-10">
 			<div class="md:w-1/2">
 				<h2 class="text-white font-bold text-4xl text-justify mb-3">Terbaik dan Terpercaya</h2>
