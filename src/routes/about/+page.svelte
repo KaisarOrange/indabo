@@ -27,7 +27,7 @@
 		></iframe>
 	</div>
 	<div class="p-4 bg-gradient-to-b from-indigo-900 to-black flex flex-col items-center py-10">
-		<h2 class="text-red-500 font-bold">Nilai perusahaan</h2>
+		<h2 class="text-red-500 font-bold w-full text-center">Nilai perusahaan</h2>
 		<h1 class="text-white font-bold text-3xl text-center">
 			Kami Terus Berupaya Untuk Selalu Transparan Dengan Klien Kami
 		</h1>

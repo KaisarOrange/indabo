@@ -25,7 +25,7 @@
 
 <div transition:fade={{ delay: 250, duration: 300 }}>
 	<div class="flex pt-4 pb-4 justify-center flex-col items-center gap-8 mt-10 mb-32">
-		<h2 class="text-red-500 font-bold">Selamat Datang!</h2>
+		<h2 class="text-red-500 font-bold w-full text-center">Selamat Datang!</h2>
 		<h1 class="font-extrabold text-3xl lg:w-2/3 text-center">
 			Solusi Terbaik Untuk Spare Parts Mesin Alat Berat
 		</h1>

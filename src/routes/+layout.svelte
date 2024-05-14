@@ -7,6 +7,7 @@
 	import { goto } from '$app/navigation';
 
 	initializeStores();
+
 	const drawerStore = getDrawerStore();
 
 	let clicked = false;
