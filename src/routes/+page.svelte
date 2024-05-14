@@ -183,6 +183,43 @@
 	</div>
 </div>
 <!-- Fourth section -->
-<div class="bg-black">
+<div class="bg-black py-8 pb-24 bg-gradient-to-b from-indigo-900 to-black">
 	<h2 class="text-4xl text-white font-bold text-center">Produk Kami</h2>
+
+	<div class="container mx-auto w-2/3 mt-20">
+		<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4">
+			<div class=" text-center flex flex-col items-center justify-between">
+				<h3 class="text-white font-bold text-lg lg:text-2xl w-48 text-center relative top-0">
+					Turbocharger
+				</h3>
+				<img class="w-48" src="/37.png" alt="" />
+			</div>
+			<div class=" flex flex-col items-center justify-between text-center">
+				<h3 class="text-white font-bold text-lg lg:text-2xl w-48 text-center">
+					Hydraulic Pumps & Accesories
+				</h3>
+				<img class="w-48" src="/38.png" alt="" />
+			</div>
+			<div class=" flex flex-col items-center justify-between text-center">
+				<h3 class="text-white font-bold text-lg lg:text-2xl w-48 text-center relative top-0">
+					Gearbox & Transmission
+				</h3>
+				<img class="w-48" src="/39.png" alt="" />
+			</div>
+			<div class=" text-center flex flex-col items-center justify-between">
+				<h3 class="text-white font-bold text-lg lg:text-2xl w-48 text-center">
+					Hydraulic Pumps & Accesories
+				</h3>
+				<img class="w-48" src="/40.png" alt="" />
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Fifth section -->
+
+<div>
+	<h2 class="text-4xl font-bold text-center w-1/2 m-auto mt-12">
+		Ingin Membeli Spare Parts, Atau Memperbaiki Suku Cadang Mesin Alat Berat Anda?
+	</h2>
 </div>
