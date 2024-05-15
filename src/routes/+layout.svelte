@@ -15,7 +15,9 @@
 </script>
 
 <svelte:head>
-	<title>Indabo Jaya Mandiri - Penyedia Spare Parts Alat Berat dan Perbaikan</title>
+	<title
+		>Indabo Jaya Mandiri - Penyedia Spare Parts Alat Berat dan Perbaikan Komponen Alat Berat</title
+	>
 </svelte:head>
 
 <Drawer position="right">
