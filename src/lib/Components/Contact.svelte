@@ -33,12 +33,12 @@
 			<img class="w-20" src="/17.png" alt="" />
 			<div>
 				<h3 class="text-lg font-bold">Siti Aisyah</h3>
-				<p>08956061478</p>
+				<p>083878127277</p>
 				<p></p>
 			</div>
 		</div>
 		<button
-			on:click={() => waGoto('08956061478')}
+			on:click={() => waGoto('083878127277')}
 			class="bg-green-500 w-full justify-center lg:w-fit p-2 rounded-md h-10 font-bold flex items-center gap-1 text-white mt-3 md:mt-0"
 			>Hubungi kami <span>
 				<img class="w-5" src="/20.png" alt="" />
