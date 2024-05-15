@@ -31,25 +31,28 @@
 		<h1 class="text-white font-bold text-3xl text-center">
 			Kami Terus Berupaya Untuk Selalu Transparan Dengan Klien Kami
 		</h1>
-		<div class="flex items-center gap-4 mt-10">
-			<img src="/ranking.png" alt="" />
-			<div class="text-white">
-				<h2 class="font-bold text-2xl">Visi</h2>
-				<p class="text-justify">
-					Untuk menjadi perusahaan, yang memuaskan pelanggan dan akan berdampak pada perbaikan
-					kehidupan.
-				</p>
+		<div class="md:w-1/2">
+			<div class="flex items-center gap-4 mt-10">
+				<img src="/ranking.png" alt="" />
+				<div class="text-white">
+					<h2 class="font-bold text-2xl">Visi</h2>
+					<p class="text-justify">
+						Untuk menjadi perusahaan, yang memuaskan pelanggan dan akan berdampak pada perbaikan
+						kehidupan.
+					</p>
+				</div>
 			</div>
-		</div>
 
-		<div class="flex items-center gap-4 mt-10">
-			<img src="/gps.png" alt="" />
-			<div class="text-white">
-				<h2 class="font-bold text-2xl">Visi</h2>
-				<p class="text-justify">
-					Untuk menjadi perusahaan, yang memuaskan pelanggan dan akan berdampak pada perbaikan
-					kehidupan.
-				</p>
+			<div class="flex items-center gap-4 mt-10">
+				<img src="/gps.png" alt="" />
+				<div class="text-white">
+					<h2 class="font-bold text-2xl">Misi</h2>
+					<p class="text-justify">
+						Didukung oleh tim kerja pengontrol dan profesional yang baik, PT.Indabo Jaya Mandiri
+						siap menjadi bagian dari perusahaan Anda dan menjadi mitra Anda untuk menambahkan
+						permintaan Anda untuk jadwal waktu pengiriman dan harga yang kompetitif.
+					</p>
+				</div>
 			</div>
 		</div>
 	</div>

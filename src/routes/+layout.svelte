@@ -14,6 +14,10 @@
 	let click = false;
 </script>
 
+<svelte:head>
+	<title>Indabo Jaya Mandiri - Penyedia Spare Parts Alat Berat dan Perbaikan</title>
+</svelte:head>
+
 <Drawer position="right">
 	<button
 		on:click={() => drawerStore.close()}
