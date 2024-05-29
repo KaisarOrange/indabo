@@ -18,6 +18,10 @@
 	<title
 		>Indabo Jaya Mandiri - Penyedia Spare Parts Alat Berat dan Perbaikan Komponen Alat Berat</title
 	>
+	<meta
+		name="description"
+		content="Sumber tepercaya Anda untuk suku cadang alat berat. Kami menawarkan berbagai suku cadang berkualitas tinggi untuk truk, mesin konstruksi, dan peralatan industri pertambangan. Pengiriman cepat dan harga bersaing dijamin."
+	/>
 </svelte:head>
 
 <Drawer position="right">

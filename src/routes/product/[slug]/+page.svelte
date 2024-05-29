@@ -65,6 +65,14 @@
 	];
 </script>
 
+<svelte:head>
+	<title>Produk {title[data.slug]} | Indabo Jaya Mandiri</title>
+	<meta
+		name="description"
+		content="Sumber tepercaya Anda untuk suku cadang alat berat. Kami menawarkan berbagai suku cadang berkualitas tinggi untuk truk, mesin konstruksi, dan peralatan industri pertambangan. Pengiriman cepat dan harga bersaing dijamin."
+	/>
+</svelte:head>
+
 <div transition:fade={{ delay: 250, duration: 300 }}>
 	<div
 		class="bg-[url('/41.png')] flex flex-col items-center px-2 md:px-10 pb-20 gap-10 py-10 text-white"

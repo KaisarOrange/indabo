@@ -2,6 +2,14 @@
 	import { fade } from 'svelte/transition';
 </script>
 
+<svelte:head>
+	<title>Tentang Kami | PT Indabo Jaya Mandiri</title>
+	<meta
+		name="description"
+		content="Sumber tepercaya Anda untuk suku cadang alat berat. Kami menawarkan berbagai suku cadang berkualitas tinggi untuk truk, mesin konstruksi, dan peralatan industri pertambangan. Pengiriman cepat dan harga bersaing dijamin."
+	/>
+</svelte:head>
+
 <div transition:fade={{ delay: 250, duration: 300 }}>
 	<div class="bg-[url('/31.png')] flex flex-col items-center px-10 pb-20 gap-10 py-10">
 		<h1 class="text-3xl md:text-5xl text-white font-bold">PT. Indabo Jaya Mandiri</h1>
